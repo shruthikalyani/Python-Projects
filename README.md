@@ -1,6 +1,6 @@
 **BEGINNER**
 
-- Hello World Program
+- Hello World Program [✅]
 - Simple Calculator
 - Number Guessing Game
 - Basic To-Do List
