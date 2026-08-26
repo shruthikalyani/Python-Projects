@@ -1,7 +1,7 @@
 **BEGINNER**
 
 - Hello World Program [✅]
-- Simple Calculator
+- Simple Calculator [✅]
 - Number Guessing Game
 - Basic To-Do List
 - Simple Alarm Clock
