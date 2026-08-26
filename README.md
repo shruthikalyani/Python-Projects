@@ -2,7 +2,7 @@
 
 - Hello World Program [✅]
 - Simple Calculator [✅]
-- Number Guessing Game
+- Number Guessing Game [✅]
 - Basic To-Do List
 - Simple Alarm Clock
 - Counter
