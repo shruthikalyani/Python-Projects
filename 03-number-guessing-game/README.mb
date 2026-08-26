@@ -1,0 +1,47 @@
+## Number Guessing Game
+A simple Python game where the player tries to guess a randomly generated number between 1 and 100.
+
+## Features
+-Generates a random number between 1 and 100
+-Takes guesses from the player
+-Tells the player whether to guess higher or lower
+-Detects when the correct number is guessed
+-Counts the number of attempts
+
+## Technologies Used
+-Python 3
+-random module
+
+## How to Run
+python3 guessing_game.py
+# Example:
+_____________________________________________________________________________
+ ================================                                            
+       NUMBER GUESSING GAME                                                  
+          by Shruthi Kalyani
+ ================================
+ 
+ I'm thinking of a number between 1 and 100!
+
+ Try to guess it!!!
+
+ Enter your guess: 50
+ higher ;)
+
+ Enter your guess: 75
+ lower ^u^
+
+ Enter your guess: 63
+ correct! you got it in 2 attempts!
+ Excellent!!!
+ _____________________________________________________________________________
+
+## What I Learned
+-Using Python’s random module
+-Taking user input
+-Using if, elif, and else
+-Comparing numbers
+-Using loops
+-Handling repeated guesses
+## Author
+Shruthi Kalyani
