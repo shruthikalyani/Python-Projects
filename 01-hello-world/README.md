@@ -1,6 +1,6 @@
 my first git commit 
 ## what it dies
-prints hellow world to the terminal and asks for your name and introduces the name of the creator
+prints hello world to the terminal and asks for your name and introduces the name of the creator
 ## technologies
 - Python 3
 ## how to run
