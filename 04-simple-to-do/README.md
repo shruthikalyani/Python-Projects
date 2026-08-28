@@ -13,23 +13,6 @@ Just Python, buttons, and questionable amounts of purple.
 ## 🧠 What does this thing do?
 
 
-┌─────────────────────────────────────┐
-│                                     │
-│       GOOD EVENING ✨               │
-│       Let's get things done.        │
-│                                     │
-│  ┌───────────────────────────────┐  │
-│  │ What needs to be done?      + │  │
-│  └───────────────────────────────┘  │
-│                                     │
-│  ○ Finish Python project          × │
-│  ○ Study                           × │
-│  ✓ Touch grass                   ✨ │
-│                                     │
-└─────────────────────────────────────┘
-
-
-🧩 How it works
 
 The app is basically a tiny ecosystem:
 
