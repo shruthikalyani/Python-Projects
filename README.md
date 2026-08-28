@@ -3,7 +3,7 @@
 - Hello World Program [✅]
 - Simple Calculator [✅]
 - Number Guessing Game [✅]
-- Basic To-Do List
+- Basic To-Do List [✅]
 - Simple Alarm Clock
 - Counter
 - Temperature Converter
