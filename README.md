@@ -13,7 +13,7 @@
 
 **INTERMEDIATE**
 
-- Tic Tac Toe Game With Al
+- Tic Tac Toe Game With Al [✅]
 - Chatbot
 - Web Scraping Tool With BeautifulSoup
 - RESTful API
